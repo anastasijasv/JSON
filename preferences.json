@@ -1,0 +1,19 @@
+{
+	"person": {
+		"nameSurname": "Anastasija Sviridova",
+		"age": 38,
+		"pets": "6 cats and 1 dog",
+		"salary": "2000 euro"
+	}
+}
+
+{
+        "preferences": {
+                "favMovie": "Natural Born Killers",
+                "favSeries": "Sons of Anarchy",
+                "favFood": "mashed potatoes",
+                "favSeason": "autumn",
+                "dreamCountry": "Iceland"
+        }
+}
+
